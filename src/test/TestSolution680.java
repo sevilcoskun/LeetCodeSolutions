@@ -1,7 +1,6 @@
 package test;
 
 import solutions.Solution680;
-import solutions.SolutionNumber;
 
 public class TestSolution680 {
     public static void test(){
@@ -16,5 +15,6 @@ public class TestSolution680 {
 
         Solution680 s3 = new Solution680();
         System.out.println(s3.validPalindrome("abcdefghabcahgfedcba"));
+
     }
 }
